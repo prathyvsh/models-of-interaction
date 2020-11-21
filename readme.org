@@ -34,7 +34,7 @@ Each tool built by [[https://100r.co/][hundredrabbits]] is worth checking out. T
 
 ** [[https://libfive.com][Libfive]]
 
-[[./img/libfive.gif]]
+[[./img/libfive.jpg]]
 
 It is a solid modelling tool with a Guile Scheme based code editor that is suited for parametrized / procedural designs.
  
