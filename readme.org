@@ -6,6 +6,8 @@ Hope you enjoy this curation!
 
 ** Design ∩ Code
 
+[[./img/design-code-cover.png]]
+
 *** [[https://glisp.app][GLisp]]
 
 [[./img/glisp.png]]
@@ -29,3 +31,10 @@ Dotgrid is a grid based tool that uses Postscript to draw vector graphics. Yet a
 [[./img/ronin.jpg]]
 
 Each tool built by [[https://100r.co/][hundredrabbits]] is worth checking out. They have this aesthetic that transports you to a parallel world that coexist with ours. They are pushing the boundaries of art and trailblazing a way of living.
+
+** [[https://libfive.com][Libfive]]
+
+[[./img/libfive.gif]]
+
+It is a solid modelling tool with a Guile Scheme based code editor that is suited for parametrized / procedural designs.
+ 
