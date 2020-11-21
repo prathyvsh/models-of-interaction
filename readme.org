@@ -12,5 +12,18 @@ Hope you enjoy this curation!
 
 A Lisp-based design tool that bridges graphic design and computational arts. It is a polished product that shows the power of having linguistic abstractions juxtaposed with an interactive design space.
 
+[[./img/glisp-experiments.png]]
+
 What is double awesome is Baku is using this to run [[https://twitter.com/_baku89/status/1322901592685699075][his own design experiments]], much like Karsten Schmidt does with his Umbrella.
 
+*** [[https://wiki.xxiivv.com/site/dotgrid.html][DotGrid]]
+
+[[./img/dotgrid.jpg]]
+
+Dotgrid is a grid based tool that uses Postscript to draw vector graphics. Yet another marvel from 100 Rabbits.
+
+** [[https://wiki.xxiivv.com/site/ronin.html][Ronin]]
+
+[[./img/ronin.jpg]]
+
+Each tool built by [[https://100r.co/][hundredrabbits]] is worth checking out. They have this aesthetic that transports you to a parallel world that coexist with ours. They are pushing the boundaries of art and trailblazing a way of living.
