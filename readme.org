@@ -51,3 +51,9 @@ Plotdevice by Christian Swineheart is a Python-based design ∩ coding tool that
 René by Jon Gold is a design tool with which one can declaratively describe styles and explore their space of permutations: http://rene.jon.gold
 
 The rationale for its design can be read in this post by Jon: https://jon.gold/2016/06/declarative-design-tools/
+
+** [[https://en.wikipedia.org/wiki/Quartz_Composer][Quartz Composer]]
+
+[[./img/quartz-composer.png]]
+
+Quartz Composer was such a fun nodes and wires environment to do design + coding work in. Pierre–Oliver Latour made this tool inspired from Miller Puckette’s music synthesis environment [[https://spectrum.ieee.org/geek-life/profiles/miller-puckette-the-man-behind-the-max-and-pd-languages-and-a-lot-of-crazy-music][Max]] and Apple acquired it.
