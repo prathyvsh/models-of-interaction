@@ -37,4 +37,15 @@ Each tool built by [[https://100r.co/][hundredrabbits]] is worth checking out. T
 [[./img/libfive.jpg]]
 
 It is a solid modelling tool with a Guile Scheme based code editor that is suited for parametrized / procedural designs.
+
+** [[https://plotdevice.io][Plotdevice]]
+
+[[./img/plotdevice.png]]
+
+Plotdevice by Christian Swineheart is a Python-based design ∩ coding tool that combines geometric shapes, typography, freeform Bézier curves and images. These can then be exported as images / animations: https://plotdevice.io
  
+** [[http://rene.jon.gold/][René]]
+
+René by Jon Gold is a design tool with which one can declaratively describe styles and explore their space of permutations: http://rene.jon.gold
+
+The rationale for its design can be read in this post by Jon: https://jon.gold/2016/06/declarative-design-tools/
