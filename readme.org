@@ -3,3 +3,12 @@
 Models of Interaction is a catalogue of the different ways of interacting with computers and their underlying models. This is one segment of a trilogy. The other parts are called *Models of Computer* and *Models of Computation*. This is an attempt at trying to understand the prime factors which are involved into understanding the process of performing computation from end to end.
 
 Hope you enjoy this curation!
+
+** Design ∩ Code
+
+*** [[https://glisp.app][GLisp]]
+
+[[./img/glisp.png]]
+
+A Lisp-based design tool that bridges graphic design and computational arts. It is a polished product that shows the power of having linguistic abstractions juxtaposed with an interactive design space.
+
