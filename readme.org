@@ -66,6 +66,24 @@ Quartz Composer was such a fun nodes and wires environment to do design + coding
 *** [[https://szymonkaliski.com/projects/protoboard/][Protoboard]]
 **** Szymon Kaliski
 
+[[./img/protoboard.jpg]]
+
 One slick environment in this category is Protoboard by Szymon Kaliski: https://szymonkaliski.com/projects/protoboard/
 
 Szymon makes a lot of other cool experiments and if you are interested in this space, you should definitely checkout his other stuff: https://szymonkaliski.com/projects/
+
+*** [[https://cables.gl][Cables]]
+**** Undev Studio
+
+[[./img/cables.gif]]
+
+Cables is a tool for creating high end real time interactive graphics in a node-based editing environment: https://cables.gl
+
+*** [[https://paperjs.org][PaperJS]]
+**** Jürg Lehni, Jonathan Puckey
+
+[[./img/paperjs.png]]
+
+Paper.js (used to be known as Scriptographer) is an amazing Javascript library for creating canvas graphics. It has a sketch environment to debug drawings. It unlocked a special wave of creative stuff during 2010s.
+
+[[./img/paperjs-2.gif]]
