@@ -9,7 +9,7 @@ Hope you enjoy this curation!
 [[./img/design-code-cover.png]]
 
 *** [[https://glisp.app][GLisp]]
-**** Baku
+**** Baku Hashimoto
 
 [[./img/glisp.png]]
 
@@ -22,7 +22,7 @@ A Lisp-based design tool that bridges graphic design and computational arts. It 
 What is double awesome is Baku is using this to run [[https://twitter.com/_baku89/status/1322901592685699075][his own design experiments]], much like Karsten Schmidt does with his Umbrella.
 
 *** [[https://wiki.xxiivv.com/site/dotgrid.html][DotGrid]]
-**** Devine
+**** Devine Lu Linvega
 
 [[./img/dotgrid.jpg]]
 
@@ -35,6 +35,7 @@ Dotgrid is a grid based tool that uses Postscript to draw vector graphics. Yet a
 Each tool built by [[https://100r.co/][hundredrabbits]] is worth checking out. They have this aesthetic that transports you to a parallel world that coexist with ours. They are pushing the boundaries of art and trailblazing a way of living.
 
 *** [[https://libfive.com][Libfive]]
+**** Matthew Keeter
 
 [[./img/libfive.jpg]]
 
