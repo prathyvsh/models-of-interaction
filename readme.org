@@ -9,6 +9,7 @@ Hope you enjoy this curation!
 [[./img/design-code-cover.png]]
 
 *** [[https://glisp.app][GLisp]]
+**** Baku
 
 [[./img/glisp.png]]
 
@@ -21,30 +22,33 @@ A Lisp-based design tool that bridges graphic design and computational arts. It 
 What is double awesome is Baku is using this to run [[https://twitter.com/_baku89/status/1322901592685699075][his own design experiments]], much like Karsten Schmidt does with his Umbrella.
 
 *** [[https://wiki.xxiivv.com/site/dotgrid.html][DotGrid]]
+**** Devine
 
 [[./img/dotgrid.jpg]]
 
 Dotgrid is a grid based tool that uses Postscript to draw vector graphics. Yet another marvel from 100 Rabbits.
 
-** [[https://wiki.xxiivv.com/site/ronin.html][Ronin]]
+*** [[https://wiki.xxiivv.com/site/ronin.html][Ronin]]
 
 [[./img/ronin.jpg]]
 
 Each tool built by [[https://100r.co/][hundredrabbits]] is worth checking out. They have this aesthetic that transports you to a parallel world that coexist with ours. They are pushing the boundaries of art and trailblazing a way of living.
 
-** [[https://libfive.com][Libfive]]
+*** [[https://libfive.com][Libfive]]
 
 [[./img/libfive.jpg]]
 
 It is a solid modelling tool with a Guile Scheme based code editor that is suited for parametrized / procedural designs.
 
-** [[https://plotdevice.io][Plotdevice]]
+*** [[https://plotdevice.io][Plotdevice]]
+**** Christian Swinehart
 
 [[./img/plotdevice.png]]
 
 Plotdevice by Christian Swineheart is a Python-based design ∩ coding tool that combines geometric shapes, typography, freeform Bézier curves and images. These can then be exported as images / animations: https://plotdevice.io
  
-** [[http://rene.jon.gold/][René]]
+*** [[http://rene.jon.gold/][René]]
+**** Jon Gold
 
 [[./img/rene.png]]
 
@@ -52,8 +56,16 @@ René by Jon Gold is a design tool with which one can declaratively describe sty
 
 The rationale for its design can be read in this post by Jon: https://jon.gold/2016/06/declarative-design-tools/
 
-** [[https://en.wikipedia.org/wiki/Quartz_Composer][Quartz Composer]]
+*** [[https://en.wikipedia.org/wiki/Quartz_Composer][Quartz Composer]]
+**** Pietter-Oliver Latour
 
 [[./img/quartz-composer.png]]
 
 Quartz Composer was such a fun nodes and wires environment to do design + coding work in. Pierre–Oliver Latour made this tool inspired from Miller Puckette’s music synthesis environment [[https://spectrum.ieee.org/geek-life/profiles/miller-puckette-the-man-behind-the-max-and-pd-languages-and-a-lot-of-crazy-music][Max]] and Apple acquired it.
+
+*** [[https://szymonkaliski.com/projects/protoboard/][Protoboard]]
+**** Szymon Kaliski
+
+One slick environment in this category is Protoboard by Szymon Kaliski: https://szymonkaliski.com/projects/protoboard/
+
+Szymon makes a lot of other cool experiments and if you are interested in this space, you should definitely checkout his other stuff: https://szymonkaliski.com/projects/
