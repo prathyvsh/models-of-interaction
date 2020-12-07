@@ -92,6 +92,6 @@ Paper.js (used to be known as Scriptographer) is an amazing Javascript library f
 *** [[https://shade.to][Shade]]
 **** Two Lives Left
 
-[[./img/shade.jpg]]
+[[./img/shade.png]]
 
 Shade is an amazing shader editor tool designed by Two Lives Left. It has some pretty sweet interaction design.
