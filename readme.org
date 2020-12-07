@@ -88,3 +88,10 @@ Cables is a tool for creating high end real time interactive graphics in a node-
 Paper.js (used to be known as Scriptographer) is an amazing Javascript library for creating canvas graphics. It has a sketch environment to debug drawings. It unlocked a special wave of creative stuff during 2010s.
 
 [[./img/paperjs-2.gif]]
+
+*** [[https://shade.to][Shade]]
+**** Two Lives Left
+
+[[./img/shade.jpg]]
+
+Shade is an amazing shader editor tool designed by Two Lives Left. It has some pretty sweet interaction design.
