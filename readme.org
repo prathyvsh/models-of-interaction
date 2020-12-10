@@ -95,3 +95,15 @@ Paper.js (used to be known as Scriptographer) is an amazing Javascript library f
 [[./img/shade.png]]
 
 Shade is an amazing shader editor tool designed by Two Lives Left. It has some pretty sweet interaction design.
+
+*** [[https://origami.studio][Origami]]
+
+[[./img/origami.png]]
+
+One of the cool spin offs of Quartz Composer is Origami. Brandon Walkin and team took Quartz Composer from where Apple left it to a refined product that allows for prototyping interactions for mobiles and desktops.
+
+*** [[https://framer.com][Framer]]
+
+[[./img/framer.png]]
+
+An environment that started out as a Javascript animation library but transformed into a full blown prototyping environment is Framer built by the old Made By Sofa team.
