@@ -96,7 +96,7 @@ Paper.js (used to be known as Scriptographer) is an amazing Javascript library f
 
 Shade is an amazing shader editor tool designed by Two Lives Left. It has some pretty sweet interaction design.
 
-*** [[https://origami.studio][Origami]]
+*** [[https://origami.design][Origami]]
 
 [[./img/origami.png]]
 
