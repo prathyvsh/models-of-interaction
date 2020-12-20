@@ -110,6 +110,8 @@ An environment that started out as a Javascript animation library but transforme
 
 *** [[http://macaw.co/][Macaw (Acquired by InVision)]]
 
+[[./img/macaw.jpg]]
+
 Macaw was a design tool built circa 2014 that enabled visually coding websites. The app was discontinued once the team joined Invision but it was a product with an interesting design direction.
 
 *** [[https://www.youtube.com/watch?v=Gy5m091fOTU][DeepUI (Prototype)]]
