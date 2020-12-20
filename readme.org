@@ -107,3 +107,11 @@ One of the cool spin offs of Quartz Composer is Origami. Brandon Walkin and team
 [[./img/framer.png]]
 
 An environment that started out as a Javascript animation library but transformed into a full blown prototyping environment is Framer built by the old Made By Sofa team.
+
+*** [[http://macaw.co/][Macaw (Acquired by InVision)]]
+
+Macaw was a design tool built circa 2014 that enabled visually coding websites. The app was discontinued once the team joined Invision but it was a product with an interesting design direction.
+
+*** [[https://www.youtube.com/watch?v=Gy5m091fOTU][DeepUI (Prototype)]]
+
+What if you could describe your software without using text but gestures that describe the behaviours? DeepUI took a bold move in this direction. The environment hasn’t shipped yet but it was a daring take on what it means to develop software.
