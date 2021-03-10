@@ -8,6 +8,8 @@ Hope you enjoy this curation!
 
 [[./img/design-code-cover.png]]
 
+These are a curation of tools that blur the line between design and engineering. Check out the tweet thread here for a more fuller curation while I integrate them here: https://twitter.com/prathyvsh/status/1326687222507077637
+
 *** [[https://glisp.app][GLisp]]
 **** Baku Hashimoto
 
