@@ -39,7 +39,7 @@ Each tool built by [[https://100r.co/][hundredrabbits]] is worth checking out. T
 *** [[https://libfive.com][Libfive]]
 **** Matthew Keeter
 
-[[./img/libfive.jpg]]
+[[./img/libfive.mp4]]
 
 It is a solid modelling tool with a Guile Scheme based code editor that is suited for parametrized / procedural designs.
 
@@ -119,3 +119,21 @@ Macaw was a design tool built circa 2014 that enabled visually coding websites. 
 *** [[https://www.youtube.com/watch?v=Gy5m091fOTU][DeepUI (Prototype)]]
 
 What if you could describe your software without using text but gestures that describe the behaviours? DeepUI took a bold move in this direction. The environment hasn’t shipped yet but it was a daring take on what it means to develop software.
+
+*** [[https://store.steampowered.com/app/415170/Engare/][Engare]]
+
+Engare is a design oriented game made by Mahdi Bahrami
+
+*** [[https://nodebox.net/node/][Nodebox]]
+
+[[./img/nodebox.png]]
+
+Nodebox is a node based environment for generative data / interactive visualizations.
+
+Visualization made in Nodebox
+
+[[./nodebox-people-vis.png]]
+
+*** [[https://circles.software/][Circles]]
+
+[[./img/circles-loop.mp4]]
