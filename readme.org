@@ -132,7 +132,7 @@ Nodebox is a node based environment for generative data / interactive visualizat
 
 Visualization made in Nodebox
 
-[[./nodebox-people-vis.png]]
+[[./img/nodebox-people-vis.png]]
 
 *** [[https://circles.software/][Circles]]
 
