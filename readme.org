@@ -39,7 +39,7 @@ Each tool built by [[https://100r.co/][hundredrabbits]] is worth checking out. T
 *** [[https://libfive.com][Libfive]]
 **** Matthew Keeter
 
-[[./img/libfive.mp4]]
+[[https://raw.githubusercontent.com/prathyvsh/models-of-interaction/main/img/libfive.mp4]]
 
 It is a solid modelling tool with a Guile Scheme based code editor that is suited for parametrized / procedural designs.
 
@@ -136,4 +136,6 @@ Visualization made in Nodebox
 
 *** [[https://circles.software/][Circles]]
 
-[[./img/circles-loop.mp4]]
+#+BEGIN_HTML
+<a href="./img/circles-loop.mp4"></a>
+#+END_HTML
