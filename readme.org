@@ -135,8 +135,12 @@ Visualization made in Nodebox
 
 [[./img/nodebox-people-vis.jpg]]
 
-*** [[https://circles.software/][Circles]]
-
+*** [[][Canvas Sketch]]
 #+BEGIN_HTML
-<video src="./img/circles-loop.mov" width=180/>
+<video src="https://user-images.githubusercontent.com/760789/149675890-0b15f17e-4284-4a1b-9c3e-0e3f2f81cf2d.mp4" width=180/>
+#+END_HTML
+
+*** [[https://circles.software/][Circles]]
+#+BEGIN_HTML
+<video src="https://user-images.githubusercontent.com/760789/149675920-73967cd6-0cb9-41d2-a752-e3f0badb792e.mov" width=180/>
 #+END_HTML
