@@ -39,8 +39,9 @@ Each tool built by [[https://100r.co/][hundredrabbits]] is worth checking out. T
 *** [[https://libfive.com][Libfive]]
 **** Matthew Keeter
 
-
-[[./img/libfive.gif]]
+#+BEGIN_HTML
+<video src="https://user-images.githubusercontent.com/760789/149676639-ffa1de49-473d-408c-96bf-0a61f83f00e1.mov"></video>
+#+END_HTML
 
 It is a solid modelling tool with a Guile Scheme based code editor that is suited for parametrized / procedural designs.
 
@@ -134,6 +135,17 @@ Nodebox is a node based environment for generative data / interactive visualizat
 Visualization made in Nodebox
 
 [[./img/nodebox-people-vis.jpg]]
+
+*** [[https://store.steampowered.com/app/415170/Engare/][Engare]]
+
+[[./img/engare.jpg]]
+
+#+BEGIN_HTML
+<video src="https://user-images.githubusercontent.com/760789/149675920-73967cd6-0cb9-41d2-a752-e3f0badb792e.mov" width=180></video>
+#+END_HTML
+
+Though not exactly a design ∩ code tool, it has great in-game pattern generators that exhibit machine/visual language duality. Lot to learn from this when creating a design ∩ code tool.
+Made by Mehdi Bahrami
 
 *** [[https://github.com/mattdesl/canvas-sketch][Canvas Sketch]]
 
