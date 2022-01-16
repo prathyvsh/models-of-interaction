@@ -145,7 +145,7 @@ Visualization made in Nodebox
 [[./img/engare.jpg]]
 
 #+BEGIN_HTML
-<video src="https://user-images.githubusercontent.com/760789/149675920-73967cd6-0cb9-41d2-a752-e3f0badb792e.mov" width=180></video>
+<video src="https://user-images.githubusercontent.com/760789/149677384-15897a0a-2d95-43de-a8ef-72c17b1b199d.mp4" width=180></video>
 #+END_HTML
 
 Though not exactly a design ∩ code tool, it has great in-game pattern generators that exhibit machine/visual language duality. Lot to learn from this when creating a design ∩ code tool.
